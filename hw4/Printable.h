@@ -1,7 +1,3 @@
-/* Reem Younis ID. 208593970
-	Yosef Abu Ghanem ID. 316532241
-*/
-
 #ifndef PRINTABLE_H_
 #define PRINTABLE_H_
 
