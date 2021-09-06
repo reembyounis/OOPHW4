@@ -1,7 +1,3 @@
-/* Reem Younis ID. 208593970
-	Yosef Abu Ghanem ID. 316532241
-*/
-
 #ifndef COMPANY_H_
 #define COMPANY_H_
 
